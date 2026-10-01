@@ -154,6 +154,52 @@
     }
   },
   {
+    "key": "RLER",
+    "acronym": "RLER",
+    "title": "Breaking the Self-Confirming Loop: Diagnosing and Mitigating Systemic Reward Bias in Self-Rewarding RL",
+    "authors": [
+      "Chuyi Tan",
+      "Peiwen Yuan",
+      "Xinglin Wang",
+      "Yiwei Li",
+      "Shaoxiong Feng",
+      "Yueqi Zhang",
+      "Jiayi Shi",
+      "Ji Zhang",
+      "Boyuan Pan",
+      "Yao Hu",
+      "Kan Li"
+    ],
+    "year": 2026,
+    "venue": "ICML 2026",
+    "summary": "Diagnoses feedback loops that over-reward confident mistakes in self-rewarding training and combines diverse reward models to reduce this bias.",
+    "url": "https://arxiv.org/abs/2510.08977",
+    "pdf": "https://arxiv.org/pdf/2510.08977",
+    "doi": null,
+    "arxiv": "2510.08977",
+    "status": "accepted",
+    "isFirstAuthor": false,
+    "category": "co",
+    "equalContribution": [],
+    "sources": [
+      "https://arxiv.org/abs/2510.08977"
+    ],
+    "notes": "Title updated in arXiv v2 (June 2026); older DBLP title is Diagnosing and Mitigating System Bias in Self-Rewarding RL. Acceptance to ICML 2026 confirmed by Xinglin Wang on 2026-10-02; final proceedings metadata not yet available in this record.",
+    "arxivUrl": "https://arxiv.org/abs/2510.08977",
+    "bibtex": "@misc{rler2025,\n  title = {Breaking the Self-Confirming Loop: Diagnosing and Mitigating Systemic Reward Bias in Self-Rewarding RL},\n  author = {Tan, Chuyi and Yuan, Peiwen and Wang, Xinglin and Li, Yiwei and Feng, Shaoxiong and Zhang, Yueqi and Shi, Jiayi and Zhang, Ji and Pan, Boyuan and Hu, Yao and Li, Kan},\n  year = {2025},\n  url = {https://arxiv.org/abs/2510.08977},\n  eprint = {2510.08977},\n  archivePrefix = {arXiv},\n  note = {Accepted to ICML 2026}\n}",
+    "bibtexSource": "Generated from verified metadata; not an unmodified publisher export.",
+    "statusSource": "Confirmed by Xinglin Wang on 2026-10-02",
+    "titleZh": "打破自我确认循环：诊断并缓解自奖励强化学习中的系统性奖励偏差",
+    "summaryZh": "诊断自奖励训练中过度奖励自信错误的反馈循环，并结合多样化的奖励模型来减轻这一偏差。",
+    "figure": {
+      "file": "assets/figure-rler.webp",
+      "sourceUrl": "https://arxiv.org/pdf/2510.08977",
+      "page": 2,
+      "number": 1,
+      "sourceType": "original-paper"
+    }
+  },
+  {
     "key": "RALM",
     "acronym": "RALM",
     "title": "Do Retrieval Augmented Language Models Know When They Don’t Know?",
@@ -264,22 +310,24 @@
       "Kan Li"
     ],
     "year": 2026,
-    "venue": "arXiv preprint",
+    "venue": "ICML 2026",
     "summary": "Aligns model hidden representations to select compact benchmark subsets, improving performance estimation when only a small pool of previously evaluated models is available.",
     "url": "https://arxiv.org/abs/2602.00710",
     "pdf": "https://arxiv.org/pdf/2602.00710",
     "doi": null,
     "arxiv": "2602.00710",
-    "status": "preprint",
+    "status": "accepted",
     "isFirstAuthor": false,
-    "category": "preprint",
+    "category": "co",
     "equalContribution": [],
     "sources": [
       "https://arxiv.org/abs/2602.00710"
     ],
     "arxivUrl": "https://arxiv.org/abs/2602.00710",
-    "bibtex": "@misc{repcore2026,\n  title = {Learning More from Less: Unlocking Internal Representations for Benchmark Compression},\n  author = {Zhang, Yueqi and Hu, Jin and Feng, Shaoxiong and Yuan, Peiwen and Wang, Xinglin and Li, Yiwei and Shi, Jiayi and Tan, Chuyi and Zhang, Ji and Pan, Boyuan and Hu, Yao and Li, Kan},\n  year = {2026},\n  url = {https://arxiv.org/abs/2602.00710},\n  eprint = {2602.00710},\n  archivePrefix = {arXiv}\n}",
+    "bibtex": "@misc{repcore2026,\n  title = {Learning More from Less: Unlocking Internal Representations for Benchmark Compression},\n  author = {Zhang, Yueqi and Hu, Jin and Feng, Shaoxiong and Yuan, Peiwen and Wang, Xinglin and Li, Yiwei and Shi, Jiayi and Tan, Chuyi and Zhang, Ji and Pan, Boyuan and Hu, Yao and Li, Kan},\n  year = {2026},\n  url = {https://arxiv.org/abs/2602.00710},\n  eprint = {2602.00710},\n  archivePrefix = {arXiv},\n  note = {Accepted to ICML 2026}\n}",
     "bibtexSource": "Generated from verified metadata; not an unmodified publisher export.",
+    "statusSource": "Confirmed by Xinglin Wang on 2026-10-02",
+    "notes": "Acceptance to ICML 2026 confirmed by Xinglin Wang on 2026-10-02; final proceedings metadata not yet available in this record.",
     "titleZh": "以少学多：利用内部表示实现基准压缩",
     "summaryZh": "通过对齐模型的隐藏表示来筛选精简的基准子集，在仅有少量已评估模型可供参考时，提高性能估计的准确性。",
     "figure": {
@@ -328,6 +376,52 @@
       "sourceUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0925231226001840-gr3_lrg.jpg",
       "page": null,
       "number": 3,
+      "sourceType": "original-paper"
+    }
+  },
+  {
+    "key": "PatternKV",
+    "acronym": "PatternKV",
+    "title": "PatternKV: Flattening KV Representation Expands Quantization Headroom",
+    "authors": [
+      "Ji Zhang",
+      "Yiwei Li",
+      "Shaoxiong Feng",
+      "Peiwen Yuan",
+      "Xinglin Wang",
+      "Jiayi Shi",
+      "Yueqi Zhang",
+      "Chuyi Tan",
+      "Boyuan Pan",
+      "Yao Hu",
+      "Kan Li"
+    ],
+    "year": 2026,
+    "venue": "ICML 2026",
+    "summary": "Finds recurring patterns in the key–value cache and quantizes residuals relative to those patterns, improving low-bit inference while reducing memory demands.",
+    "url": "https://arxiv.org/abs/2510.05176",
+    "pdf": "https://arxiv.org/pdf/2510.05176",
+    "doi": null,
+    "arxiv": "2510.05176",
+    "status": "accepted",
+    "isFirstAuthor": false,
+    "category": "co",
+    "equalContribution": [],
+    "sources": [
+      "https://arxiv.org/abs/2510.05176"
+    ],
+    "notes": "Latest arXiv revision is January 2026. Acceptance to ICML 2026 confirmed by Xinglin Wang on 2026-10-02; final proceedings metadata not yet available in this record.",
+    "arxivUrl": "https://arxiv.org/abs/2510.05176",
+    "bibtex": "@misc{patternkv2025,\n  title = {PatternKV: Flattening KV Representation Expands Quantization Headroom},\n  author = {Zhang, Ji and Li, Yiwei and Feng, Shaoxiong and Yuan, Peiwen and Wang, Xinglin and Shi, Jiayi and Zhang, Yueqi and Tan, Chuyi and Pan, Boyuan and Hu, Yao and Li, Kan},\n  year = {2025},\n  url = {https://arxiv.org/abs/2510.05176},\n  eprint = {2510.05176},\n  archivePrefix = {arXiv},\n  note = {Accepted to ICML 2026}\n}",
+    "bibtexSource": "Generated from verified metadata; not an unmodified publisher export.",
+    "statusSource": "Confirmed by Xinglin Wang on 2026-10-02",
+    "titleZh": "PatternKV：平坦化 KV 表示，拓展量化空间",
+    "summaryZh": "识别键值缓存中反复出现的模式，并对相对于这些模式的残差进行量化，在降低内存需求的同时改善低比特推理。",
+    "figure": {
+      "file": "assets/figure-patternkv.webp",
+      "sourceUrl": "https://arxiv.org/pdf/2510.05176",
+      "page": 5,
+      "number": 4,
       "sourceType": "original-paper"
     }
   },
@@ -521,51 +615,6 @@
     }
   },
   {
-    "key": "RLER",
-    "acronym": "RLER",
-    "title": "Breaking the Self-Confirming Loop: Diagnosing and Mitigating Systemic Reward Bias in Self-Rewarding RL",
-    "authors": [
-      "Chuyi Tan",
-      "Peiwen Yuan",
-      "Xinglin Wang",
-      "Yiwei Li",
-      "Shaoxiong Feng",
-      "Yueqi Zhang",
-      "Jiayi Shi",
-      "Ji Zhang",
-      "Boyuan Pan",
-      "Yao Hu",
-      "Kan Li"
-    ],
-    "year": 2025,
-    "venue": "arXiv preprint",
-    "summary": "Diagnoses feedback loops that over-reward confident mistakes in self-rewarding training and combines diverse reward models to reduce this bias.",
-    "url": "https://arxiv.org/abs/2510.08977",
-    "pdf": "https://arxiv.org/pdf/2510.08977",
-    "doi": null,
-    "arxiv": "2510.08977",
-    "status": "preprint",
-    "isFirstAuthor": false,
-    "category": "preprint",
-    "equalContribution": [],
-    "sources": [
-      "https://arxiv.org/abs/2510.08977"
-    ],
-    "notes": "Title updated in arXiv v2 (June 2026); older DBLP title is Diagnosing and Mitigating System Bias in Self-Rewarding RL. No accepted venue verified.",
-    "arxivUrl": "https://arxiv.org/abs/2510.08977",
-    "bibtex": "@misc{rler2025,\n  title = {Breaking the Self-Confirming Loop: Diagnosing and Mitigating Systemic Reward Bias in Self-Rewarding RL},\n  author = {Tan, Chuyi and Yuan, Peiwen and Wang, Xinglin and Li, Yiwei and Feng, Shaoxiong and Zhang, Yueqi and Shi, Jiayi and Zhang, Ji and Pan, Boyuan and Hu, Yao and Li, Kan},\n  year = {2025},\n  url = {https://arxiv.org/abs/2510.08977},\n  eprint = {2510.08977},\n  archivePrefix = {arXiv}\n}",
-    "bibtexSource": "Generated from verified metadata; not an unmodified publisher export.",
-    "titleZh": "打破自我确认循环：诊断并缓解自奖励强化学习中的系统性奖励偏差",
-    "summaryZh": "诊断自奖励训练中过度奖励自信错误的反馈循环，并结合多样化的奖励模型来减轻这一偏差。",
-    "figure": {
-      "file": "assets/figure-rler.webp",
-      "sourceUrl": "https://arxiv.org/pdf/2510.08977",
-      "page": 2,
-      "number": 1,
-      "sourceType": "original-paper"
-    }
-  },
-  {
     "title": "From Sub-Ability Diagnosis to Human-Aligned Generation: Bridging the Gap for Text Length Control via MarkerGen",
     "authors": [
       "Peiwen Yuan",
@@ -704,51 +753,6 @@
       "sourceUrl": "https://papers.nips.cc/paper_files/paper/2025/file/938ac7bb9a997b60b6be0348c486aaef-Paper-Conference.pdf",
       "page": 5,
       "number": 2,
-      "sourceType": "original-paper"
-    }
-  },
-  {
-    "key": "PatternKV",
-    "acronym": "PatternKV",
-    "title": "PatternKV: Flattening KV Representation Expands Quantization Headroom",
-    "authors": [
-      "Ji Zhang",
-      "Yiwei Li",
-      "Shaoxiong Feng",
-      "Peiwen Yuan",
-      "Xinglin Wang",
-      "Jiayi Shi",
-      "Yueqi Zhang",
-      "Chuyi Tan",
-      "Boyuan Pan",
-      "Yao Hu",
-      "Kan Li"
-    ],
-    "year": 2025,
-    "venue": "arXiv preprint",
-    "summary": "Finds recurring patterns in the key–value cache and quantizes residuals relative to those patterns, improving low-bit inference while reducing memory demands.",
-    "url": "https://arxiv.org/abs/2510.05176",
-    "pdf": "https://arxiv.org/pdf/2510.05176",
-    "doi": null,
-    "arxiv": "2510.05176",
-    "status": "preprint",
-    "isFirstAuthor": false,
-    "category": "preprint",
-    "equalContribution": [],
-    "sources": [
-      "https://arxiv.org/abs/2510.05176"
-    ],
-    "notes": "Latest arXiv revision is January 2026. No accepted conference venue verified.",
-    "arxivUrl": "https://arxiv.org/abs/2510.05176",
-    "bibtex": "@misc{patternkv2025,\n  title = {PatternKV: Flattening KV Representation Expands Quantization Headroom},\n  author = {Zhang, Ji and Li, Yiwei and Feng, Shaoxiong and Yuan, Peiwen and Wang, Xinglin and Shi, Jiayi and Zhang, Yueqi and Tan, Chuyi and Pan, Boyuan and Hu, Yao and Li, Kan},\n  year = {2025},\n  url = {https://arxiv.org/abs/2510.05176},\n  eprint = {2510.05176},\n  archivePrefix = {arXiv}\n}",
-    "bibtexSource": "Generated from verified metadata; not an unmodified publisher export.",
-    "titleZh": "PatternKV：平坦化 KV 表示，拓展量化空间",
-    "summaryZh": "识别键值缓存中反复出现的模式，并对相对于这些模式的残差进行量化，在降低内存需求的同时改善低比特推理。",
-    "figure": {
-      "file": "assets/figure-patternkv.webp",
-      "sourceUrl": "https://arxiv.org/pdf/2510.05176",
-      "page": 5,
-      "number": 4,
       "sourceType": "original-paper"
     }
   },
