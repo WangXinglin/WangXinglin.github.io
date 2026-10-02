@@ -132,7 +132,10 @@
     "status": "under review",
     "isFirstAuthor": true,
     "category": "under-review",
-    "equalContribution": [],
+    "equalContribution": [
+      "Xinglin Wang",
+      "Jiayi Shi"
+    ],
     "sources": [
       "https://arxiv.org/abs/2601.21684",
       "https://github.com/WangXinglin/RSE"
@@ -143,6 +146,7 @@
     "arxivUrl": "https://arxiv.org/abs/2601.21684",
     "bibtex": "@misc{rse2026,\n  title = {Do Not Waste Your Rollouts: Recycling Search Experience for Efficient Test-Time Scaling},\n  author = {Wang, Xinglin and Shi, Jiayi and Feng, Shaoxiong and Yuan, Peiwen and Li, Yiwei and Zhang, Yueqi and Tan, Chuyi and Zhang, Ji and Pan, Boyuan and Hu, Yao and Li, Kan},\n  year = {2026},\n  url = {https://arxiv.org/abs/2601.21684},\n  eprint = {2601.21684},\n  archivePrefix = {arXiv}\n}",
     "bibtexSource": "Generated from verified metadata; not an unmodified publisher export.",
+    "contributionSource": "Confirmed by Xinglin Wang on 2026-10-02",
     "titleZh": "别浪费你的推演：复用搜索经验，实现高效推理时扩展",
     "summaryZh": "将有效的中间结论和失败的推理模式汇集为共享经验库，使后续推演能够复用已有发现，避免反复陷入相同的死路。",
     "figure": {
