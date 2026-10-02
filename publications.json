@@ -343,47 +343,6 @@
     }
   },
   {
-    "key": "MODE+",
-    "acronym": "MODE+",
-    "title": "MODE+: A benchmark and a probe into multimodal open-domain dialogue evaluation",
-    "authors": [
-      "Hang Yin",
-      "Xinglin Wang",
-      "Yueqi Zhang",
-      "Pinren Lu",
-      "Bin Sun",
-      "Peiwen Yuan",
-      "Kan Li"
-    ],
-    "year": 2026,
-    "venue": "Neurocomputing 675, 132787",
-    "summary": "Provides a human-annotated benchmark for evaluating multimodal dialogue and studies an evaluation framework combining image transformation, reasoning, and calibration.",
-    "url": "https://www.sciencedirect.com/science/article/pii/S0925231226001840",
-    "pdf": null,
-    "doi": "10.1016/j.neucom.2026.132787",
-    "arxiv": null,
-    "status": "published",
-    "isFirstAuthor": false,
-    "category": "co",
-    "equalContribution": [],
-    "sources": [
-      "https://www.sciencedirect.com/science/article/pii/S0925231226001840"
-    ],
-    "notes": "Publisher marks first two authors with superscript 1; equal-contribution footnote not yet independently read, so retained as co-author pending confirmation.",
-    "doiUrl": "https://doi.org/10.1016/j.neucom.2026.132787",
-    "bibtex": "@article{mode2026,\n  title = {MODE+: A benchmark and a probe into multimodal open-domain dialogue evaluation},\n  author = {Yin, Hang and Wang, Xinglin and Zhang, Yueqi and Lu, Pinren and Sun, Bin and Yuan, Peiwen and Li, Kan},\n  year = {2026},\n  url = {https://www.sciencedirect.com/science/article/pii/S0925231226001840},\n  journal = {Neurocomputing 675, 132787},\n  doi = {10.1016/j.neucom.2026.132787}\n}",
-    "bibtexSource": "Generated from verified metadata; not an unmodified publisher export.",
-    "titleZh": "MODE+：多模态开放域对话评估基准与探索",
-    "summaryZh": "构建带有人类标注的多模态对话评估基准，并研究结合图像转换、推理与校准的评估框架。",
-    "figure": {
-      "file": "assets/figure-mode-plus.webp",
-      "sourceUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0925231226001840-gr3_lrg.jpg",
-      "page": null,
-      "number": 3,
-      "sourceType": "original-paper"
-    }
-  },
-  {
     "key": "PatternKV",
     "acronym": "PatternKV",
     "title": "PatternKV: Flattening KV Representation Expands Quantization Headroom",
@@ -1346,6 +1305,51 @@
       "sourceUrl": "https://ojs.aaai.org/index.php/AAAI/article/download/29821/31426",
       "page": 4,
       "number": 1,
+      "sourceType": "original-paper"
+    }
+  },
+  {
+    "key": "MODE+",
+    "acronym": "MODE+",
+    "title": "MODE+: A benchmark and a probe into multimodal open-domain dialogue evaluation",
+    "authors": [
+      "Hang Yin",
+      "Xinglin Wang",
+      "Yueqi Zhang",
+      "Pinren Lu",
+      "Bin Sun",
+      "Peiwen Yuan",
+      "Kan Li"
+    ],
+    "year": 2026,
+    "venue": "Neurocomputing 675, 132787",
+    "summary": "Provides a human-annotated benchmark for evaluating multimodal dialogue and studies an evaluation framework combining image transformation, reasoning, and calibration.",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0925231226001840",
+    "pdf": null,
+    "doi": "10.1016/j.neucom.2026.132787",
+    "arxiv": null,
+    "status": "published",
+    "isFirstAuthor": true,
+    "category": "first",
+    "equalContribution": [
+      "Hang Yin",
+      "Xinglin Wang"
+    ],
+    "sources": [
+      "https://www.sciencedirect.com/science/article/pii/S0925231226001840"
+    ],
+    "notes": "Hang Yin and Xinglin Wang contributed equally; confirmed by Xinglin Wang on 2026-10-02.",
+    "doiUrl": "https://doi.org/10.1016/j.neucom.2026.132787",
+    "bibtex": "@article{mode2026,\n  title = {MODE+: A benchmark and a probe into multimodal open-domain dialogue evaluation},\n  author = {Yin, Hang and Wang, Xinglin and Zhang, Yueqi and Lu, Pinren and Sun, Bin and Yuan, Peiwen and Li, Kan},\n  year = {2026},\n  url = {https://www.sciencedirect.com/science/article/pii/S0925231226001840},\n  journal = {Neurocomputing 675, 132787},\n  doi = {10.1016/j.neucom.2026.132787}\n}",
+    "bibtexSource": "Generated from verified metadata; not an unmodified publisher export.",
+    "contributionSource": "Confirmed by Xinglin Wang on 2026-10-02",
+    "titleZh": "MODE+：多模态开放域对话评估基准与探索",
+    "summaryZh": "构建带有人类标注的多模态对话评估基准，并研究结合图像转换、推理与校准的评估框架。",
+    "figure": {
+      "file": "assets/figure-mode-plus.webp",
+      "sourceUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0925231226001840-gr3_lrg.jpg",
+      "page": null,
+      "number": 3,
       "sourceType": "original-paper"
     }
   },
