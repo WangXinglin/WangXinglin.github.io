@@ -106,6 +106,61 @@
     }
   },
   {
+    "key": "PersonTTS",
+    "acronym": "PersonTTS",
+    "title": "From Pareto to Preference: Personalized Test-Time Scaling via Amortized Agentic Policy Discovery",
+    "titleZh": "从帕累托到偏好：通过摊销式智能体策略发现实现个性化推理时扩展",
+    "authors": [
+      "Xinglin Wang",
+      "Zishen Liu",
+      "Tong Zheng",
+      "Shaoxiong Feng",
+      "Peiwen Yuan",
+      "Yiwei Li",
+      "Jiayi Shi",
+      "Yueqi Zhang",
+      "Chuyi Tan",
+      "Ji Zhang",
+      "Boyuan Pan",
+      "Kan Li"
+    ],
+    "year": 2026,
+    "venue": "Under Review",
+    "summary": "Discovers executable reasoning policies for users’ joint accuracy, latency, and cost requirements, reusing matched controllers and procedural guidance from prior searches to reduce discovery overhead.",
+    "summaryZh": "针对用户对准确率、延迟和成本的联合要求发现可执行推理策略，并复用相近需求下的控制器与历史搜索提炼的过程指导，降低策略发现开销。",
+    "url": "https://arxiv.org/abs/2610.09684",
+    "pdf": "https://arxiv.org/pdf/2610.09684",
+    "doi": null,
+    "arxiv": "2610.09684",
+    "arxivUrl": "https://arxiv.org/abs/2610.09684",
+    "status": "under review",
+    "isFirstAuthor": true,
+    "category": "under-review",
+    "equalContribution": [
+      "Xinglin Wang",
+      "Zishen Liu",
+      "Tong Zheng"
+    ],
+    "sources": [
+      "https://arxiv.org/html/2610.09684v1",
+      "https://arxiv.org/abs/2610.09684",
+      "https://github.com/WangXinglin/PersonTTS"
+    ],
+    "code": "https://github.com/WangXinglin/PersonTTS",
+    "statusSource": "Confirmed by Xinglin Wang on 2026-10-10",
+    "contributionSource": "Equal-contribution footnote on arXiv v1 PDF first page",
+    "notes": "Under-review status requested directly by the author; Xinglin Wang, Zishen Liu, and Tong Zheng contributed equally.",
+    "bibtex": "@misc{wang2026persontts,\n  title = {From Pareto to Preference: Personalized Test-Time Scaling via Amortized Agentic Policy Discovery},\n  author = {Wang, Xinglin and Liu, Zishen and Zheng, Tong and Feng, Shaoxiong and Yuan, Peiwen and Li, Yiwei and Shi, Jiayi and Zhang, Yueqi and Tan, Chuyi and Zhang, Ji and Pan, Boyuan and Li, Kan},\n  year = {2026},\n  eprint = {2610.09684},\n  archivePrefix = {arXiv},\n  primaryClass = {cs.CL},\n  url = {https://arxiv.org/abs/2610.09684}\n}",
+    "bibtexSource": "Generated from verified arXiv metadata.",
+    "figure": {
+      "file": "assets/figure-persontts.webp",
+      "sourceUrl": "https://arxiv.org/html/2610.09684v1/main.png",
+      "page": 2,
+      "number": 1,
+      "sourceType": "original-paper"
+    }
+  },
+  {
     "key": "RSE",
     "acronym": "RSE",
     "title": "Do Not Waste Your Rollouts: Recycling Search Experience for Efficient Test-Time Scaling",
