@@ -125,7 +125,7 @@
       "Kan Li"
     ],
     "year": 2026,
-    "venue": "Under Review",
+    "venue": "arXiv preprint",
     "summary": "Discovers executable reasoning policies for users’ joint accuracy, latency, and cost requirements, reusing matched controllers and procedural guidance from prior searches to reduce discovery overhead.",
     "summaryZh": "针对用户对准确率、延迟和成本的联合要求发现可执行推理策略，并复用相近需求下的控制器与历史搜索提炼的过程指导，降低策略发现开销。",
     "url": "https://arxiv.org/abs/2610.09684",
@@ -133,9 +133,9 @@
     "doi": null,
     "arxiv": "2610.09684",
     "arxivUrl": "https://arxiv.org/abs/2610.09684",
-    "status": "under review",
+    "status": "preprint",
     "isFirstAuthor": true,
-    "category": "under-review",
+    "category": "preprint",
     "equalContribution": [
       "Xinglin Wang",
       "Zishen Liu",
@@ -147,9 +147,9 @@
       "https://github.com/WangXinglin/PersonTTS"
     ],
     "code": "https://github.com/WangXinglin/PersonTTS",
-    "statusSource": "Confirmed by Xinglin Wang on 2026-10-10",
+    "statusSource": "Homepage classification updated at Xinglin Wang's request on 2026-10-18",
     "contributionSource": "Equal-contribution footnote on arXiv v1 PDF first page",
-    "notes": "Under-review status requested directly by the author; Xinglin Wang, Zishen Liu, and Tong Zheng contributed equally.",
+    "notes": "Xinglin Wang, Zishen Liu, and Tong Zheng contributed equally.",
     "bibtex": "@misc{wang2026persontts,\n  title = {From Pareto to Preference: Personalized Test-Time Scaling via Amortized Agentic Policy Discovery},\n  author = {Wang, Xinglin and Liu, Zishen and Zheng, Tong and Feng, Shaoxiong and Yuan, Peiwen and Li, Yiwei and Shi, Jiayi and Zhang, Yueqi and Tan, Chuyi and Zhang, Ji and Pan, Boyuan and Li, Kan},\n  year = {2026},\n  eprint = {2610.09684},\n  archivePrefix = {arXiv},\n  primaryClass = {cs.CL},\n  url = {https://arxiv.org/abs/2610.09684}\n}",
     "bibtexSource": "Generated from verified arXiv metadata.",
     "figure": {
@@ -178,15 +178,15 @@
       "Kan Li"
     ],
     "year": 2026,
-    "venue": "Under Review",
+    "venue": "arXiv preprint",
     "summary": "Turns successful intermediate conclusions and failed reasoning patterns into a shared experience bank, allowing later rollouts to reuse discoveries and avoid repeated dead ends.",
     "url": "https://arxiv.org/abs/2601.21684",
     "pdf": "https://arxiv.org/pdf/2601.21684",
     "doi": null,
     "arxiv": "2601.21684",
-    "status": "under review",
+    "status": "preprint",
     "isFirstAuthor": true,
-    "category": "under-review",
+    "category": "preprint",
     "equalContribution": [
       "Xinglin Wang",
       "Jiayi Shi"
@@ -196,8 +196,8 @@
       "https://github.com/WangXinglin/RSE"
     ],
     "code": "https://github.com/WangXinglin/RSE",
-    "statusSource": "Confirmed by Xinglin Wang on 2026-10-01",
-    "notes": "Under-review status confirmed directly by the author.",
+    "statusSource": "Homepage classification updated at Xinglin Wang's request on 2026-10-18",
+    "notes": "Xinglin Wang and Jiayi Shi contributed equally.",
     "arxivUrl": "https://arxiv.org/abs/2601.21684",
     "bibtex": "@misc{rse2026,\n  title = {Do Not Waste Your Rollouts: Recycling Search Experience for Efficient Test-Time Scaling},\n  author = {Wang, Xinglin and Shi, Jiayi and Feng, Shaoxiong and Yuan, Peiwen and Li, Yiwei and Zhang, Yueqi and Tan, Chuyi and Zhang, Ji and Pan, Boyuan and Hu, Yao and Li, Kan},\n  year = {2026},\n  url = {https://arxiv.org/abs/2601.21684},\n  eprint = {2601.21684},\n  archivePrefix = {arXiv}\n}",
     "bibtexSource": "Generated from verified metadata; not an unmodified publisher export.",
